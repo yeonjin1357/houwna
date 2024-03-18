@@ -4,5 +4,6 @@
   height: 60px;
   left: 0;
   background-color: #fff;
+  border-bottom: 1px solid #dedede;
   transition: background-color 0.2s ease;
 }

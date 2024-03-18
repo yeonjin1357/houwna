@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className={classes.container}>
         <div className={classes.navbar__logo}>
           <Link href="/">
-            <img src="images/logo-toss-pay.svg" alt="" />
+            <img src="images/logo.png" alt="" />
           </Link>
         </div>
         <div className={classes.navbar__content}>
